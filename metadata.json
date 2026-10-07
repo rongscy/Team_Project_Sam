@@ -1,0 +1,6 @@
+{
+  "name": "HDB Valuation Studio",
+  "description": "One-click Singapore HDB resale flat price finder and valuation studio powered by official Data.gov.sg resale transaction data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
